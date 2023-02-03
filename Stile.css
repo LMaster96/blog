@@ -6,3 +6,13 @@ body {
     text-align: center;
     background-color: aquamarine;
 }
+#contenedor {
+    width: 70%;
+    padding: 1em;
+    border: 2px solid black;
+    margin: auto;
+}
+.parrafo {
+    contain: paint;
+    margin: 10px;
+}
