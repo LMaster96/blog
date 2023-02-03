@@ -1,6 +1,6 @@
 body {
 
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 32px;
     color: darkblue;
     text-align: center;
@@ -20,7 +20,7 @@ body {
     align-items: center;
     margin: auto;
     padding: 10px;
-    width: 150px;
+    width: 180px;
     border-radius: 5px;
 }
 .parrafo {
